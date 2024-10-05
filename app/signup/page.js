@@ -170,6 +170,7 @@ const SignupPage = () => {
                 Sign up with Google
               </Typography>
             </IconButton>
+            
           </Box>
         </Paper>
       </Container>
